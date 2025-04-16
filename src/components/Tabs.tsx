@@ -18,7 +18,7 @@ const tabs = [
             key={index}
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
-            image="https://via.placeholder.com/400x300"
+            image="https://placehold.co/400x300"
           />
         ))}
       </div>
@@ -41,7 +41,7 @@ const tabs = [
             key={index}
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
-            image="https://via.placeholder.com/400x300"
+            image="https://placehold.co/400x300"
           />
         ))}
       </div>
@@ -58,7 +58,7 @@ const tabs = [
             key={index}
             title="Amazing Card"
             description="This is a cool-looking card component using React and Tailwind CSS."
-            image="https://via.placeholder.com/400x300"
+            image="https://placehold.co/400x300"
           />
         ))}
       </div>
